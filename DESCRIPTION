@@ -1,6 +1,6 @@
 Package: fcoex
 Title: FCBF-based Co-Expression Networks for Single Cells 
-Version: 1.15.0
+Version: 1.15.1
 Authors@R: c(person("Tiago", "Lubiana", email = "tiago.lubiana.alves@usp.br",
   role = c("aut", "cre")), person("Helder", "Nakaya", email = "hnkaya@usp.br",
   role = c("aut","ths")))
@@ -48,3 +48,4 @@ biocViews: GeneExpression, Transcriptomics, GraphAndNetwork,
 LazyData: true
 RoxygenNote: 7.1.2
 VignetteBuilder: knitr
+PackageStatus: Deprecated
